@@ -1,5 +1,5 @@
-JSONRPClib
-==========
+JSONRPClib - Bridge for Python - MMA Integration
+================================================
 This library is an implementation of the JSON-RPC specification.
 It supports both the original 1.0 specification, as well as the 
 new (proposed) 2.0 spec, which includes batch submission, keyword
